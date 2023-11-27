@@ -1,0 +1,11 @@
+.one{
+    border: 1px solid grey;
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+}
+ .container{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}

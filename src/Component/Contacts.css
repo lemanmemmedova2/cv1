@@ -1,0 +1,18 @@
+ .contact{
+  
+    padding: 5px;
+    width: 150px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+
+}
+.Contact{
+    margin-bottom: 50px;
+}
+
+p{
+    margin-top: 10px;
+    margin-left: 50px;
+}

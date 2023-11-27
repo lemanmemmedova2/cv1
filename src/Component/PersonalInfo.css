@@ -1,0 +1,27 @@
+.Personal{
+    display: flex;
+      font-family: 'Poppins';
+      background-color: blanchedalmond;
+      margin-bottom: 20px;
+  }
+  
+  h1{
+      text-align: center;
+  }
+  .age, .Personal  .location, .Personal h2{
+      font-size: 20px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+      margin-left: 46px;
+  }
+ img{
+      height: 300px;
+      width: 300px;
+  }
+ .container{
+      display: flex;
+      flex-direction: column;
+  }
+  .name{
+    margin-left: 40px;
+  }

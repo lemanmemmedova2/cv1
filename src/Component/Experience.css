@@ -1,0 +1,18 @@
+.head{
+    padding: 5px;
+    width: 150px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+}
+ .exp{
+    width: 400px;
+    margin-left: 50px;
+}
+.Exp{
+    margin-bottom: 50px;
+}
+ p{
+    margin-top: 10px;
+}
